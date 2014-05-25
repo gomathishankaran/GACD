@@ -34,7 +34,7 @@ List of files from the downloaded zip file:
 Variable list and descriptions(got from the files above)
 
 Variable name 	Description
-subject 	ID the subject who performed the activity for each window sample. Its                 range is from 1 to 30.
+subject 	ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
 activity 	Activity name
 featDomain 	Feature: Time domain signal or frequency domain signal (Time or Freq)
 featInstrument 	Feature: Measuring instrument (Accelerometer or Gyroscope)
@@ -60,7 +60,7 @@ head(Features)
 Dataset structure given by:
 str(Tidy)
 
-Classes ‘data.table’ and 'data.frame':  11880 obs. of  11 variables:
+Classes ï¿½data.tableï¿½ and 'data.frame':  11880 obs. of  11 variables:
  $ subject         : int  1 1 1 1 1 1 1 1 1 1 ...
  $ activity        : Factor w/ 6 levels "LAYING","SITTING",..: 1 1 1 1 1 1 1 1 1 1 ...
  $ featDomain      : Factor w/ 2 levels "Time","Freq": 1 1 1 1 1 1 1 1 1 1 ...
