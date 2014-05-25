@@ -29,5 +29,8 @@ Steps to reproduce this project
 
 Outputs produced
 
-    Tidy dataset file HumanActivityPhones.txt (tab-delimited text)
-    
+    Tidy dataset file HumanActivityPhones.txt (tab-delimited text) 
+
+The Codebook:
+
+A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
